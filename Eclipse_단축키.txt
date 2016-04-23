@@ -1,0 +1,50 @@
+Eclipse 단축키
+
+Ctrl+Shift+L[x2] : Key Assist Popup [Preference-Keys]
+
+Shift+Alt+S : Context Menu - Source
+
+Shift+Alt+X,J : Run Java Application
+Ctrl+Space : Context Assist
+Ctrl+1 : Quick Fix
+Ctrl+T : Quick Type Hierarchy
+Ctrl+O : Quick Outline
+
+F3 : Open Declaration
+Alt+Left[Right] : Back[Forward]
+Ctrl (Mouse Over) : Hyper Link
+
+Ctrl+L : Go to Line
+Ctrl+,[.] (on ToolBar) : Move to Next[Previous] Annotation
+
+Ctrl+Q : Go to Last Edit Location
+Shift+Alt+B : Toggle Breadcrumb
+Shift+Alt+O : Toggle Mark Occurences
+
+Ctrl+F6 : 에디터 간 전환
+Ctrl+F7 : 뷰 간 전환
+Ctrl+F8 : 퍼스펙티브 간 전환
+F12 : 에디터로 포커스
+
+Ctrl+Shift+F : Code Style Formatter
+
+Ctrl+F : Find
+Ctrl+J : Incremental Find Next
+Ctrl+Shift+J : Incremental Find Previous
+Ctrl+K : Find Next
+Ctrl+Shift+K : Find Previous
+
+Ctrl+H : WorkSpace Search
+
+F11 : Debug
+Ctrl+F11 : Run
+
+Ctrl+Alt+H : Show Call Hierarchy
+Ctrl+Shift+O : Organize Imports
+
+Ctrl+Shift+/ : 선택영역 주석(/* */)처리
+Ctrl+Shift+\ : 선택영역 주석(/* */)해제
+Ctrl+/ : 커서라인 또는 선택영역 주석(//)처리 또는 해제
+
+Shift+Alt+R : Refactorying
+
